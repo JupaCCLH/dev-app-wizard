@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/grafi/OneDrive/Documentos/www/nuxt/Nuxt-Layers/app-Extra/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/grafi/OneDrive/Documentos/www/nuxt/Nuxt-Layers/dev-app-wizard/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "C:/Users/grafi/OneDrive/Documentos/www/nuxt/Nuxt-Layers/app-Extra/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/grafi/OneDrive/Documentos/www/nuxt/Nuxt-Layers/dev-app-wizard/node_modules/nuxt/dist/app/entry.js"
   }
 }
