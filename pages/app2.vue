@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <Page-2 /> -->
-    <Wizard />
+    <WizardServer />
   </div>
 </template>
 
